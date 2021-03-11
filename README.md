@@ -1,5 +1,5 @@
 # Adventure Game
-Text based adventure game using python
+Text based adventure game using python.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
