@@ -1,5 +1,5 @@
 # Under The Castle
-Text based adventure game using python.
+Text based adventure game using modules.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
